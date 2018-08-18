@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shield Test Eaze (2)", "Assembly-CSharp.csproj", "{8C36CDEB-86F5-D7AC-64B3-84C601F6C27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shield Test Eaze (2)", "Assembly-CSharp-firstpass.csproj", "{053B06AF-D36F-7C59-777E-360410852E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shield Test Eaze (2)", "Assembly-CSharp-Editor.csproj", "{A5135A4D-33F5-58E2-9EF4-822DBD1AA65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C36CDEB-86F5-D7AC-64B3-84C601F6C27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C36CDEB-86F5-D7AC-64B3-84C601F6C27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C36CDEB-86F5-D7AC-64B3-84C601F6C27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C36CDEB-86F5-D7AC-64B3-84C601F6C27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053B06AF-D36F-7C59-777E-360410852E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053B06AF-D36F-7C59-777E-360410852E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053B06AF-D36F-7C59-777E-360410852E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053B06AF-D36F-7C59-777E-360410852E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5135A4D-33F5-58E2-9EF4-822DBD1AA65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5135A4D-33F5-58E2-9EF4-822DBD1AA65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5135A4D-33F5-58E2-9EF4-822DBD1AA65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5135A4D-33F5-58E2-9EF4-822DBD1AA65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 42d5c9bdc70bd3e44ad3d9b98c4a1ce8
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dragon Head
+    21300002: Dragon Body
+    21300004: Dragon Tail
+    21300006: Dragon Front Leg
+    21300008: Dragon Big Eye
+    21300010: Dragon Small Eye
+    21300012: Dragon Clothes 3
+    21300014: Dragon Hair
+    21300016: Dragon Big Hand
+    21300018: Dragon Clothes 2
+    21300020: Dragon Small Hand
+    21300022: Dragon Clothes 1
+    21300024: Dragon Tail Hair
+    21300026: Dragon Small Forearm
+    21300028: Dragon Big Forearm
+    21300030: Dragon Small Arm
+    21300032: Dragon Mustache 2
+    21300034: Dragon Big Arm
+    21300036: Dragon Clothes 4
+    21300038: Dragon Back Leg
+    21300040: Dragon Mustache 1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon Head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 169
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5445351, y: 0.1794494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Body
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 179
+        width: 118
+        height: 173
+      alignment: 9
+      pivot: {x: 0.4059011, y: 0.4724929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Tail
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 213
+        width: 108
+        height: 139
+      alignment: 9
+      pivot: {x: 0.18309163, y: 0.1677312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Front Leg
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 237
+        width: 91
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46543398, y: 0.70066047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Big Eye
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 323
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Small Eye
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 299
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Clothes 3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 125
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Hair
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 94
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Big Hand
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 196
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.90629196, y: 0.24190815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Clothes 2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Small Hand
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 166
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5663458, y: 0.7384323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Clothes 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Tail Hair
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 56
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42259708, y: 0.14910722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Small Forearm
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 124
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6360016, y: 0.22810975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Big Forearm
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 126
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54711646, y: 0.7917488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Small Arm
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.75155914, y: 0.5510092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Mustache 2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 68
+        height: 18
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Big Arm
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.14088154, y: 0.33888513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Clothes 4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 37
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Back Leg
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 102
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7711663, y: 0.61409307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Dragon Mustache 1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 23
+        width: 60
+        height: 18
+      alignment: 9
+      pivot: {x: 0.8883041, y: 0.7107078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

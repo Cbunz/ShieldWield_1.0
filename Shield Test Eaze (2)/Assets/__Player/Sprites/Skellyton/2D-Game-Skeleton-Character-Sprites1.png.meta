@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 52173df468944274bb80378a7ce9f24b
+timeCreated: 1519600222
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2D-Game-Skeleton-Character-Sprites1_0
+    21300002: 2D-Game-Skeleton-Character-Sprites1_1
+    21300004: 2D-Game-Skeleton-Character-Sprites1_2
+    21300006: 2D-Game-Skeleton-Character-Sprites1_3
+    21300008: 2D-Game-Skeleton-Character-Sprites1_4
+    21300010: 2D-Game-Skeleton-Character-Sprites1_5
+    21300012: 2D-Game-Skeleton-Character-Sprites1_6
+    21300014: 2D-Game-Skeleton-Character-Sprites1_7
+    21300016: 2D-Game-Skeleton-Character-Sprites1_8
+    21300018: 2D-Game-Skeleton-Character-Sprites1_9
+    21300020: 2D-Game-Skeleton-Character-Sprites1_10
+    21300022: 2D-Game-Skeleton-Character-Sprites1_11
+    21300024: 2D-Game-Skeleton-Character-Sprites1_12
+    21300026: 2D-Game-Skeleton-Character-Sprites1_13
+    21300028: 2D-Game-Skeleton-Character-Sprites1_14
+    21300030: 2D-Game-Skeleton-Character-Sprites1_15
+    21300032: 2D-Game-Skeleton-Character-Sprites1_16
+    21300034: 2D-Game-Skeleton-Character-Sprites1_17
+    21300036: 2D-Game-Skeleton-Character-Sprites1_18
+    21300038: 2D-Game-Skeleton-Character-Sprites1_19
+    21300040: 2D-Game-Skeleton-Character-Sprites1_20
+    21300042: 2D-Game-Skeleton-Character-Sprites1_21
+    21300044: 2D-Game-Skeleton-Character-Sprites1_22
+    21300046: 2D-Game-Skeleton-Character-Sprites1_23
+    21300048: 2D-Game-Skeleton-Character-Sprites1_24
+    21300050: 2D-Game-Skeleton-Character-Sprites1_25
+    21300052: 2D-Game-Skeleton-Character-Sprites1_26
+    21300054: 2D-Game-Skeleton-Character-Sprites1_27
+    21300056: 2D-Game-Skeleton-Character-Sprites1_28
+    21300058: 2D-Game-Skeleton-Character-Sprites1_29
+    21300060: 2D-Game-Skeleton-Character-Sprites1_30
+    21300062: 2D-Game-Skeleton-Character-Sprites1_31
+    21300064: 2D-Game-Skeleton-Character-Sprites1_32
+    21300066: 2D-Game-Skeleton-Character-Sprites1_33
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 759
+        width: 195
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 777
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_2
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 935
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 862
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_4
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 787
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 790
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 59
+        width: 580
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 801
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 627
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 711
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 673
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 644
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 371
+        width: 184
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 506
+        width: 71
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_15
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 527
+        width: 206
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 580
+        width: 112
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 534
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 339
+        width: 71
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 371
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 241
+        width: 177
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 349
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 349
+        width: 185
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 210
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 52
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 259
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 272
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_27
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 63
+        width: 332
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 63
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 55
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 36
+        width: 48
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 134
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 40
+        width: 129
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Skeleton-Character-Sprites1_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
